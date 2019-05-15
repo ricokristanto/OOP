@@ -14,8 +14,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("This is my first update")
+        print("This is my second update")
     }
-
+    
+    func sun(){
+        
+    }
 
 }
 
