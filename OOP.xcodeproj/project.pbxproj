@@ -14,6 +14,7 @@
 		41C3AA2A228B9CFC0089FEE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41C3AA28228B9CFC0089FEE7 /* LaunchScreen.storyboard */; };
 		41C3AA32228BA89E0089FEE7 /* Learner model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C3AA31228BA89E0089FEE7 /* Learner model.swift */; };
 		41C3AA54228BC4E70089FEE7 /* FacilitatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C3AA53228BC4E70089FEE7 /* FacilitatorModel.swift */; };
+		41C3AA56228BC9AC0089FEE7 /* MenteeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C3AA55228BC9AC0089FEE7 /* MenteeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		41C3AA2B228B9CFC0089FEE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41C3AA31228BA89E0089FEE7 /* Learner model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Learner model.swift"; sourceTree = "<group>"; };
 		41C3AA53228BC4E70089FEE7 /* FacilitatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitatorModel.swift; sourceTree = "<group>"; };
+		41C3AA55228BC9AC0089FEE7 /* MenteeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenteeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				41C3AA1F228B9CFB0089FEE7 /* AppDelegate.swift */,
 				41C3AA21228B9CFB0089FEE7 /* ViewController.swift */,
+				41C3AA55228BC9AC0089FEE7 /* MenteeModel.swift */,
 				41C3AA53228BC4E70089FEE7 /* FacilitatorModel.swift */,
 				41C3AA31228BA89E0089FEE7 /* Learner model.swift */,
 				41C3AA23228B9CFB0089FEE7 /* Main.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41C3AA56228BC9AC0089FEE7 /* MenteeModel.swift in Sources */,
 				41C3AA54228BC4E70089FEE7 /* FacilitatorModel.swift in Sources */,
 				41C3AA22228B9CFB0089FEE7 /* ViewController.swift in Sources */,
 				41C3AA20228B9CFB0089FEE7 /* AppDelegate.swift in Sources */,
